@@ -1,4 +1,4 @@
-# AI-Based-Student-Grade-Prediction
+# AI-Based-Student-Grade-Prediction system
 
 AI-based Student Grade Prediction System.
 
