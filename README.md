@@ -1,4 +1,12 @@
-# AI-based Student Grade Prediction System
+# AI-Based-Student-Grade-Prediction
+
+AI-based Student Grade Prediction System.
+
+---
+
+## About
+
+This project predicts a student's final score using a **Scikit-learn Linear Regression** model served via a **Flask REST API**, with a **React** + **Tailwind CSS** frontend.
 
 Full-stack application that predicts a student's final score using **Scikit-learn Linear Regression**, a **Flask REST API**, and a **React** frontend with Tailwind CSS.
 
